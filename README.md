@@ -1,3 +1,5 @@
+![Alt text](https://github.com/cafyrei/cafyrei/blob/e7798babe9c0d5431e97a097b7b40815e5e275df/allen_alcabaza.svg.svg)
+
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 </div>
