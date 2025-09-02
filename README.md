@@ -54,5 +54,4 @@
 </div>
 
 ###
-![Animated Wave](./wave.svg)
-
+![Animated Wave](wave.svg)
