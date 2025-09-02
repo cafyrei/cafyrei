@@ -94,10 +94,10 @@
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr>
     <td style="padding: 0; border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=transparent" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=cafyrei&show_icons=true&theme=transparent" alt="GitHub Stats" />
     </td>
     <td style="padding: 0; border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=transparent" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cafyrei&layout=compact&theme=transparent" alt="Top Languages" />
     </td>
   </tr>
 </table>
