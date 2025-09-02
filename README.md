@@ -54,4 +54,5 @@
 </div>
 
 ###
-![Animated Wave](https://github.com/cafyrei/cafyrei/blob/ace0e976fdf639bca6fa3e81c2cb30943fb626cc/wave.svg)
+![Animated Wave](./wave.svg)
+
