@@ -20,7 +20,7 @@
 
 ###
 
-![Alt text](https://github.com/cafyrei/cafyrei/blob/e7798babe9c0d5431e97a097b7b40815e5e275df/allen_alcabaza.svg.svg)
+![Alt text](https://github.com/cafyrei/cafyrei/blob/ace0e976fdf639bca6fa3e81c2cb30943fb626cc/allen_alcabaza.svg)
 ### <h3 align="center"> About Me</h3>
 <h4 align="center">🌱 Aspiring Developer | Curious Learner </h4>
 <p align="center"> Hey, I’m Allen! I’m someone who believes in learning by doing. I may still be new to coding, but I enjoy the challenge of solving problems, experimenting with projects, and growing along the way. Outside of coding, I’m just a regular person who loves trying new things and building my own path.  
@@ -54,3 +54,4 @@
 </div>
 
 ###
+![Animated Wave](https://github.com/cafyrei/cafyrei/blob/ace0e976fdf639bca6fa3e81c2cb30943fb626cc/wave.svg)
