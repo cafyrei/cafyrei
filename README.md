@@ -6,10 +6,17 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/GITHUB-%23181717?style=for-the-badge&logo=github&logoColor=%23FFFF&link=https%3A%2F%2Fgithub.com%2Fcafyrei" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/badge/Youtube-%23FF0000?style=for-the-badge&logo=Youtube&logoColor=%23FFFF&link=https%3A%2F%2Fwww.youtube.com%2F%40RSh1va" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/badge/Facebook-%230866FF?style=for-the-badge&logo=facebook&logoColor=%23FFFF&link=https%3A%2F%2Fwww.facebook.com%2Fallen.alcabaza.73%2F" height="25" alt="twitter logo"  />
+  <a href="https://github.com/cafyrei" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-%23181717?style=for-the-badge&logo=github&logoColor=white" height="25" alt="github logo" />
+  </a>
+  <a href="https://www.youtube.com/@RSh1va" target="_blank">
+    <img src="https://img.shields.io/badge/Youtube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25" alt="youtube logo" />
+  </a>
+  <a href="https://www.facebook.com/allen.alcabaza.73" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%230866FF?style=for-the-badge&logo=facebook&logoColor=white" height="25" alt="facebook logo" />
+  </a>
 </div>
+
 
 ###
 
