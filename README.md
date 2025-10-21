@@ -27,9 +27,9 @@
 
 ### <h3 align="center"> About Me</h3>
 <h4 align="center">🌱 Aspiring Developer | Curious Learner </h4>
-<p align="center"> Hey, I’m Allen! I’m someone who believes in learning by doing. I may still be new to coding, but I enjoy the challenge of solving problems, experimenting with projects, and growing along the way. Outside of coding,   
+<p align="center"> Hey, I’m Allen! I’m someone who believes in learning by doing. I enjoy (sometimes) coding, but I enjoy the challenge of solving problems, experimenting with projects, and growing along the way. Outside of coding,   
 </p>
-<p align="center"> I’m not a coding expert (yet!), but I’m learning every day and documenting my journey here on GitHub.<p>
+<p align="center"> I’m not good, but I’m learning every day and documenting my journey here on GitHub.<p>
 
 ###
 
